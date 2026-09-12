@@ -1,0 +1,9 @@
+{
+  "name": "lame-gestione-cert-qualita",
+  "version": "0.9.1",
+  "description": "Automatizza il flusso di arrivo merce del Reparto Qualità LAME Srl: dedup, OCR, estrazione DDT e dati certificati (forgia/acciaieria) con scheda per Heat/Colata, archiviazione, spostamento a flusso concluso, e controllo/riparazione obbligatoria della coerenza dell'intero archivio (incluso l'indice Excel) dopo ogni skill. Funziona su cartelle locali, sincronizzate o Google Drive via API.",
+  "author": {
+    "name": "LAME Srl - Reparto Qualità"
+  },
+  "keywords": ["ddt", "certificati", "acciaieria", "forgia", "quality", "pdf", "heat", "colata", "processed", "archiviazione", "google drive", "onedrive", "ocr", "risoluzione", "doppioni", "deduplicazione", "controllo coerenza", "riparazione", "excel"]
+}
