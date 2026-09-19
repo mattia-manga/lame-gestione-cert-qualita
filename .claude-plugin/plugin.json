@@ -1,9 +1,9 @@
 {
   "name": "lame-gestione-cert-qualita",
-  "version": "0.9.1",
-  "description": "Automatizza il flusso di arrivo merce del Reparto Qualità LAME Srl: dedup, OCR, estrazione DDT e dati certificati (forgia/acciaieria) con scheda per Heat/Colata, archiviazione, spostamento a flusso concluso, e controllo/riparazione obbligatoria della coerenza dell'intero archivio (incluso l'indice Excel) dopo ogni skill. Funziona su cartelle locali, sincronizzate o Google Drive via API.",
+  "version": "0.11.0",
+  "description": "Automatizza il flusso di arrivo merce del Reparto Qualità LAME Srl: dedup, OCR, estrazione DDT e dati certificati (forgia/acciaieria) con scheda per Heat/Colata, verifica di conformità chimica/meccanica ai gradi materiale più comuni, archiviazione, spostamento a flusso concluso, controllo di coerenza dell'archivio (incluso l'indice Excel) e ricontrollo mirato del CE sugli A105. Funziona su cartelle locali, sincronizzate o Google Drive via API.",
   "author": {
     "name": "LAME Srl - Reparto Qualità"
   },
-  "keywords": ["ddt", "certificati", "acciaieria", "forgia", "quality", "pdf", "heat", "colata", "processed", "archiviazione", "google drive", "onedrive", "ocr", "risoluzione", "doppioni", "deduplicazione", "controllo coerenza", "riparazione", "excel"]
+  "keywords": ["ddt", "certificati", "acciaieria", "forgia", "quality", "pdf", "heat", "colata", "processed", "archiviazione", "google drive", "onedrive", "ocr", "risoluzione", "doppioni", "deduplicazione", "controllo coerenza", "riparazione", "excel", "a105", "carbonio equivalente", "ce", "materiali", "composizione chimica", "proprietà meccaniche", "a182", "a350", "a694", "conformità"]
 }
